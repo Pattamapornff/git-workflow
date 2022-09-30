@@ -4,5 +4,16 @@ body {
 
 h1 {
     color: white;
-    font-size: 60px;
+    font-size: 50px;
+    text-align: center;
+}
+ul li {
+    list-style-type: none;
+}
+ul li {
+    text-align: center;
+}
+ul li {
+text-decoration: none;
+color: blueviolet;
 }
